@@ -52,7 +52,7 @@ travelPlaces[2] = "Australia";
 travelPlaces[3] = "Spain";
 
 console.log(travelPlaces);
-//
+//[ 'Toronto', 'New York', 'Australia', 'Spain' ]
 
 
 
@@ -67,7 +67,10 @@ console.log(travelPlaces);
  * Then console log out the baking recipies. Write a single line comment as to what will be displayed.
  */
 
-
+var bakingRecipies = ["brownies", "cookies", "cakes", "tarts"];
+bakingRecipies.pop();
+console.log(bakingRecipies);
+//[ 'brownies', 'cookies', 'cakes' ]
 
 
 
