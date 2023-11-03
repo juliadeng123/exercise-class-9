@@ -45,9 +45,14 @@ console.log(classroomSupplies);
  * add a single line comment as to what the output will be
  */
 
+var travelPlaces = [];
+travelPlaces[0] = "Toronto";
+travelPlaces[1] = "New York";
+travelPlaces[2] = "Australia";
+travelPlaces[3] = "Spain";
 
-
-
+console.log(travelPlaces);
+//
 
 
 
