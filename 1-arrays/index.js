@@ -20,7 +20,11 @@
  */
 
 var classroomSupplies = [];
-classroomSupplies =  ["pen", "paper", "desk", "computer"];
+classroomSupplies[0] =  "pen";
+classroomSupplies[1] =  "paper";
+classroomSupplies[2] =  "desk";
+classroomSupplies[3] =  "computer";
+
 console.log(classroomSupplies);
 //[ 'pen', 'paper', 'desk', 'computer' ]
 
